@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshayneriya
 - 👀 I’m interested in angular frontend development
-- 🌱 I’m currently learning angular,python,css,html5,javascript
+- 🌱 I’m currently learning angular,css3,html5,javascript,node js ,mongodb
 - 💞️ I’m looking to collaborate on freelancer work.
 - 📫 How to reach me on call 7014265848 and on email akshayneriya2001@gmail.com
 
